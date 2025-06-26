@@ -1,0 +1,6 @@
+The following components were serviced
+1.Load
+
+The following components were not serviced:
+1.Lamp
+2.Ladder
